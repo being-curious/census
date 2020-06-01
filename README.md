@@ -1,6 +1,6 @@
 # Census
 
-Check how many modules at deno.land/x
+Check how many modules at https://deno.land/x
 
 ## Getting started
 
