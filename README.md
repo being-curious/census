@@ -1,6 +1,7 @@
 # Census
+Curious to know how many 'Third Party Modules' are in https://deno.land/x?
 
-Count modules in https://deno.land/x
+Use Census to get this info.
 
 ## Getting started
 
